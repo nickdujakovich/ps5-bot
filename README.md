@@ -1,8 +1,8 @@
-# PS5 Tracker
-#### Currently tracks Target and Best Buy
+### PS5 Tracker
+###### Currently tracks Target and Best Buy
 
 
-### Getting Started
+#### Getting Started
 ```
 npm install
 node tracker.js
