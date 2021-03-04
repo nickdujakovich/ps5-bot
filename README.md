@@ -1,6 +1,7 @@
 # PS5 Tracker
 
 ### Getting Started
-> npm install
-
-> node tracker.js
+```
+npm install
+node tracker.js
+```
